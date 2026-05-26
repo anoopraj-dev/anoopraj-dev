@@ -16,8 +16,8 @@
 
 I am a **Full Stack Software Engineer** specializing in the **MERN Stack** (MongoDB, Express, React, Node.js) and modern frontend tech. I focus on building scalable web applications, AI-integrated software, and highly responsive interactive interfaces.
 
-- 🏥 **Healthcare Tech**: Built [**pulse360**](https://github.com/anoopraj-dev/project-pulse360), a comprehensive appointment booking system connecting doctors and patients.
-- 🌌 **Interactive 3D Web**: Developed [**equilibrium**](https://github.com/anoopraj-dev/equilibrium), a modern landing page featuring an immersive, scroll-driven Three.js background scene.
+- 🏥 **Healthcare Tech**: Built [**pulse360**](https://github.com/anoopraj-dev/project-pulse), a booking + online consultation platform for doctors and patients.
+- 🌌 **Interactive 3D Web**: Developed [**equilibrium**](https://github.com/anoopraj-dev/equilibrium), an AI resume builder + interview preparation platform featuring an immersive, scroll-driven Three.js background.
 - 🎨 **Visual Interfaces**: Experience creating clean, user-centric clones and responsive web designs including Starbucks, Uber, OLX, and Netflix.
 - 🛠️ **Strong Backend Foundation**: Creating secure, state-managed applications using MERN, EJS, and Firebase.
 
@@ -62,8 +62,8 @@ Here are the key projects I've built and maintained:
 
 | Project | Tech Stack | Description | Link |
 | :--- | :--- | :--- | :---: |
-| 🏥 **pulse360** | `TypeScript`, `React`, `Node.js` | An appointment booking application for doctors and patients. | [View Repo](https://github.com/anoopraj-dev/project-pulse360) |
-| 🌌 **equilibrium** | `JavaScript`, `React`, `Three.js`, `Vite` | Immersive landing page featuring an interactive, scroll-driven 3D background. | [View Repo](https://github.com/anoopraj-dev/equilibrium) |
+| 🏥 **pulse360** | `TypeScript`, `React`, `Node.js` | A booking + online consultation platform for doctors and patients. | [View Repo](https://github.com/anoopraj-dev/project-pulse) |
+| 🌌 **equilibrium** | `JavaScript`, `React`, `Three.js`, `Vite` | An AI resume builder + interview preparation platform featuring an interactive, scroll-driven 3D background. | [View Repo](https://github.com/anoopraj-dev/equilibrium) |
 | 🔑 **UserAuthentication-MERN** | `MongoDB`, `Express`, `React`, `Node.js` | Standard secure user registration, login, and authorization system. | [View Repo](https://github.com/anoopraj-dev/UserAutherntication-MERN) |
 | 🛍️ **OLX Clone** | `React`, `Tailwind CSS`, `Firebase`, `Cloudinary` | Features item listing, image uploads, and real-time database state. | [View Repo](https://github.com/anoopraj-dev/OLX) |
 | 🎬 **Netflix Clone** | `React`, `Firebase` | Front-end streaming dashboard featuring user profiles and movie catalogs. | [View Repo](https://github.com/anoopraj-dev/NetflixClone) |
